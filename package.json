@@ -1,0 +1,19 @@
+{
+  "name": "typescript_pr_bynomad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seung-ik/typescript_pr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seung-ik/typescript_pr/issues"
+  },
+  "homepage": "https://github.com/seung-ik/typescript_pr#readme"
+}
